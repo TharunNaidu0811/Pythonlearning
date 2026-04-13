@@ -1,6 +1,6 @@
 message = 'hello world'
 message_1 = "it's my first project"
-message_2 = """This is my 
+message_2 = """This is my first
 python code"""
 test1 = "tharun"
 test2 = "naidu"
